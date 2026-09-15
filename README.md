@@ -71,17 +71,3 @@ Envie para a branch main:
 ```bash
 git push origin main
 ```
-
-## O que entregar no AVA
-
-A atividade pede pelo menos quatro imagens:
-
-1. Print da atividade formativa da semana 2 mostrando a URL do repositório e o conteúdo dele.
-2. Print da atividade formativa da semana 3 mostrando a Pull Request criada e o workflow de CI/CD executando com sucesso.
-3. Print do container Docker funcionando localmente com sucesso.
-   - Uma forma simples é deixar o terminal visível com o comando `docker ps`.
-   - Também é recomendável deixar o navegador aberto em `http://localhost:3000`.
-4. Print mostrando o arquivo `Dockerfile` dentro do seu repositório no GitHub.
-   - O enunciado também permite enviar o próprio arquivo `Dockerfile` no lugar desse print.
-
-Importante: os prints precisam ser reais, com a URL do seu próprio repositório visível quando solicitado pelo enunciado.
